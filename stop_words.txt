@@ -1,0 +1,10 @@
+doc
+admin
+static
+admin
+upload
+media
+static
+favicon.ico
+robots.txt
+sitemap.xml
